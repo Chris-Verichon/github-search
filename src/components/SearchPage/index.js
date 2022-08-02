@@ -1,9 +1,9 @@
 import { useState, useEffect } from 'react';
 import axios from 'axios';
 import { Message } from 'semantic-ui-react';
-import ReposResults from '../ReposResults';
 import SearchBar from '../SearchBar';
 import Spinner from '../Spinner';
+import ReposResults from '../ReposResults';
 import MoreButton from '../MoreButton';
 
 function SearchPage() {
