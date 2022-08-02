@@ -6,7 +6,7 @@ function Faq() {
       <Header as="h1">FAQ</Header>
       <Header as="h2">A quoi ça sert ?</Header>
       <p>
-        Cette application magnifiquement développée avec React permet de trouver une liste 
+        Cette application magnifiquement développée avec React permet de trouver une liste
         de dépôts GitHub.
       </p>
       <Header as="h2">Comment faire une recherche ?</Header>
